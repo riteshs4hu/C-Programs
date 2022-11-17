@@ -2,7 +2,8 @@
 
 //stdio   ->    1. printf() 2. scanf()
 
-int main(void)
+int main()
 {
-    printf("Hello World");  
+    printf("Hello World");
+    return 0;
 }

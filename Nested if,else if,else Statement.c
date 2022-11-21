@@ -17,11 +17,7 @@ int main()
         }
         else
         {
-            printf("Third Valu is Greatest\n");
-        }
-         else
-        {
-            printf("Frist,Second And Third Vaule Both Are Same\n");
+            printf("Third Value is Greatest\n");
         }
     }
     else if (b>a)

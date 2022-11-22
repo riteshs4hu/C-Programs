@@ -1,7 +1,7 @@
 int main()
 {
     int i=1;
-    do 
+    do
     {
         printf("%d\n",i);
         i++;

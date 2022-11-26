@@ -11,6 +11,6 @@ int main()
         rev=rev*10+r;
         n=n/10;
     }
-    while(n>0);
+    while(n>0); 
     printf("Rev Number is = %d\n", rev);
 }

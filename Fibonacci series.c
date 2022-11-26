@@ -1,5 +1,4 @@
-#include<iostream>
-using namespace std;
+#include<stdio.h>
 
 int main ()
 {
@@ -7,7 +6,7 @@ int main ()
     while(i<=10)
     {
         c=a+b;
-        cout<<c<<endl;
+        printf("%d\n",c);
         a=b;
         b=c;
         i++;
